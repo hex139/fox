@@ -1,0 +1,12 @@
+discord:
+  - id: "crawl"
+    discord_channel: "fox233"
+    discord_username: "codine7"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/1165269035244601396/21phGxr-pig1ypMTkQC870Xz0bM0bD8gETyNYWwuScUdvGmsEkZwIJdBFy6l8EpY2aur"
+
+  - id: "subs"
+    discord_channel: "fox247"
+    discord_username: "codine7"
+    discord_format: "{{data}}"
+    discord_webhook_url: "https://discord.com/api/webhooks/1159632617126236221/k1vih8xKt-6pSzexcjTHhfAegc6g1ePZqV_SSNvveE7nIp8Lt4z5dhXdKRhve11o-RHl"
